@@ -24,7 +24,7 @@ body {
     color: #b3b0b0;
 }
 
-.header div {
+.header .container {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
