@@ -134,3 +134,7 @@ This project is licensed under the MIT License
 * [UCB BootCamp](https://bootcamp.berkeley.edu/)
 * [DevTools](https://dev.to/)
 * [Youtube](https://www.youtube.com/)
+
+## **Test**
+
+![Site test](./assets/images/test.gif)
